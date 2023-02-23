@@ -1,5 +1,7 @@
 # WLU-Foodorama
-GUI application for "WLU Foodorama" written in Java for course credit in Object Oriented Programming(CP 213 Wilfird Laurier University) taught by Dr. Abdul Raman Yunis.
+
+*GUI application for "WLU Foodorama" written in Java for course credit in Object Oriented Programming(CP 213 Wilfird Laurier University) taught by Dr. Abdul Raman Yunis.*
+
 Author: Erin Manson, with javadoc and assignment instructions by Dr. Abdul Raman-Yunis and Mr. David Brown
 
 GUI interfaces, polymorphism, event driven programming, and key principles of object oriented programming are used in this assignment to create a user friendly restaurant menu and food ordering application.
